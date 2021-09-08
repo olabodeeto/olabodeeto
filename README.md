@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:atom_symbol: :atom_symbol: :atom_symbol: :atom_symbol:
 I'm Olabode, enthusiastic and creative Frontend Engineer with hands-on skills in a wide range of tools and programming languages.
 I, am detailed and design minded Frontend Engineer with a centered attention on building efficient and scalable applications with beautiful interfaces using React and other related technology tools.
 
