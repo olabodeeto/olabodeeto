@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Olabode, enthusiastic and creative React Frontend Engineer with hands-on skills in a wide range of tools and programming languages!
+
+
