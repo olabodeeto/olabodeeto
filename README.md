@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 :atom_symbol: :atom_symbol: :atom_symbol: :atom_symbol: <br>
 <br>
-I'm Olabode, enthusiastic and creative Frontend Engineer with hands-on skills in a wide range of tools and programming languages. <br>
-I, am detailed and design minded Frontend Engineer with a centered attention on building efficient and scalable applications with beautiful interfaces using React and other related technology tools.
-
+I am Olabode, enthusiastic and creative Frontend Engineer with hands-on skills in a wide range of tools and programming languages. <br>
+I'am detailed and design minded Frontend Engineer with a centered attention on building efficient and scalable applications with beautiful interfaces using React and other related technology tools.
+<br>
+:atom_symbol: :atom_symbol: :atom_symbol: :atom_symbol: :atom_symbol:
 
