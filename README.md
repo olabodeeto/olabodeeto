@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 :atom_symbol: :atom_symbol: :atom_symbol: :atom_symbol: <br>
 I am Olabode, enthusiastic and creative Frontend Engineer with hands-on skills in a wide range of tools and programming languages. <br>
-
 - 🔭 I’m currently working on Reactnative app
 - 🌱 I’m currently learning more of Nodejs
 - 👯 I’m looking to collaborate on mern stack project
