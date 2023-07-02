@@ -20,7 +20,7 @@ I am Olabode, an enthusiastic and creative Frontend Engineer with hands-on skill
 - 🌱 I’m currently learning more of Nodejs
 - 👯 I’m looking to collaborate on mern stack project
 - 💬 Ask me about javascript
-- 📫 How to reach me: olabodeeto@gmail.com
+- 📫 How to reach me: etobode@gmail.com
 - 😄 Pronouns: He/Him
 <br>
 :atom_symbol: :atom_symbol: :atom_symbol: :atom_symbol: :atom_symbol:
