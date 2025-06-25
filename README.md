@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 :atom_symbol: :atom_symbol: :atom_symbol: :atom_symbol: <br>
 I am Olabode, an enthusiastic and creative Frontend Engineer with hands-on skills in a wide range of tools and programming languages. <br>
-- 🔭 I’m currently working on Reactnative app
-- 🌱 I’m currently learning more of Nodejs
-- 👯 I’m looking to collaborate on mern stack project
-- 💬 Ask me about javascript
+- 🔭 I’m currently working on a React Native app
+- 🌱 I’m currently learning more about Node.js
+- 👯 I’m looking to collaborate on a MERN stack project
+- 💬 Ask me about JavaScript
 - 📫 How to reach me: etobode@gmail.com
 - 😄 Pronouns: He/Him
 <br>
